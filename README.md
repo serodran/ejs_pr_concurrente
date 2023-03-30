@@ -1,1 +1,1 @@
-# ejs_pr_concurrente
+# ejs_pr_distribuida
